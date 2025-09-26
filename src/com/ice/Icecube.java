@@ -10,7 +10,7 @@ public class Icecube extends Icebox {
     }
 
     public void melt() {
-        System.out.println("There are " + quant + "icecubes melting from " + temp + "°.");
+        System.out.println("There are " + quant + " icecubes melting from " + temp + "°.");
     }
 
 }
