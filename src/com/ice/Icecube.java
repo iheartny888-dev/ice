@@ -5,7 +5,7 @@ public class Icecube extends Icebox {
     private int quant;
 
     public Icecube(int quant, int temp) {
-        super(String color, int temp);
+        super("color", temp);
         this.quant = quant;
     }
 
