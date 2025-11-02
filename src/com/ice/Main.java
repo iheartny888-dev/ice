@@ -2,6 +2,7 @@ package src.com.ice;
 
 public class Main {
 
+    // Run main program
     public static void main(String[] args) {
 
         Icebox fridge = new Icebox("blue", 12);

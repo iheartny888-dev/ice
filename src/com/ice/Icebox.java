@@ -7,6 +7,7 @@ public class Icebox {
     public String color;
     public int temp;
 
+    // Constructor
     public Icebox(String color, int temp) {
         this.color = color;
         this.temp = temp;
