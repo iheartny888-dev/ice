@@ -7,9 +7,12 @@ public class Main {
         Icebox fridge = new Icebox("blue", 12);
         fridge.iceboxColor();
         fridge.iceboxTemp();
+        fridge.iceboxOwner();
 
         Icecube cube = new Icecube(47, 12);
         cube.melt();
+        cube.icecubeMath();
+
 
     }
 
